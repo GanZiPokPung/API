@@ -28,8 +28,10 @@ CTimer * CTimerManager::CreateTimer(const string & strKey)
 	if (pTimer)
 		return pTimer;
 
+	// Timer를 만들고 초기화 한다.
+	// 만약 실패한다면 nullptr를 반환한다.
 	pTimer = new CTimer;
-
+	
 	if (!pTimer->Init())
 	{
 		SAFE_DELETE(pTimer);
@@ -43,8 +45,11 @@ CTimer * CTimerManager::CreateTimer(const string & strKey)
 
 CTimer * CTimerManager::FindTimer(const string & strKey)
 {
+	// find는 알맞는 key값을 찾지 못했다면 .end()위치의 iterator를 리턴한다.
+	// const auto&로도 사용 가능
 	unordered_map<string, CTimer*>::iterator	iter = m_mapTimer.find(strKey);
 
+	// iterator가 .end()일때
 	if (iter == m_mapTimer.end())
 		return NULL;
 
