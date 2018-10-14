@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Player.cpp
+d:\11기\api\ar11api\gameframework\client\include\gameframework.h(124): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\gameframework.h(125): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\gameframework.h(399): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\object\player.cpp(43): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\object\player.cpp(172): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Client.vcxproj -> D:\11기\API\AR11API\GameFramework\Client\Include\../Bin\Client_Debug.exe
+  Client.vcxproj -> ../Bin\Client_Debug.pdb (Full PDB)

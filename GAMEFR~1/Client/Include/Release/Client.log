@@ -1,0 +1,105 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Animation.cpp
+d:\11기\api\ar11api\gameframework\client\include\animation\../GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\animation\../GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Animation\Animation.cpp(180): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Base.cpp
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Collider.cpp
+d:\11기\api\ar11api\gameframework\client\include\collider\../GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\collider\../GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ColliderRect.cpp
+d:\11기\api\ar11api\gameframework\client\include\collider\../GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\collider\../GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Core.cpp
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Core.cpp(221): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+  Camera.cpp
+d:\11기\api\ar11api\gameframework\client\include\core\../GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\core\../GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Input.cpp
+d:\11기\api\ar11api\gameframework\client\include\core\../GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\core\../GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Math.cpp
+d:\11기\api\ar11api\gameframework\client\include\core\../GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\core\../GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Core\Math.cpp(23): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Core\Math.cpp(24): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Core\Math.cpp(28): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Core\Math.cpp(33): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Core\Math.cpp(35): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PathManager.cpp
+d:\11기\api\ar11api\gameframework\client\include\core\../GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\core\../GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Timer.cpp
+d:\11기\api\ar11api\gameframework\client\include\core\../GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\core\../GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TimerManager.cpp
+d:\11기\api\ar11api\gameframework\client\include\core\../GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\core\../GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BackGround.cpp
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Object\BackGround.cpp(39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bullet.cpp
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Character.cpp
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Dynamic.cpp
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Monster.cpp
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Object\Monster.cpp(38): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Obj.cpp
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Object\Obj.cpp(187): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Object\Obj.cpp(188): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Object\Obj.cpp(198): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Object\Obj.cpp(199): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ObjectManager.cpp
+d:\11기\api\ar11api\gameframework\client\include\object\../GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\object\../GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Object\Player.cpp(39): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  컴파일하고 있습니다...
+  ResourcesManager.cpp
+d:\11기\api\ar11api\gameframework\client\include\resources\../GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\resources\../GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Texture.cpp
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Layer.cpp
+d:\11기\api\ar11api\gameframework\client\include\scene\../GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\scene\../GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MainScene.cpp
+d:\11기\api\ar11api\gameframework\client\include\scene\../GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\scene\../GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Scene\MainScene.cpp(76): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene.cpp
+d:\11기\api\ar11api\gameframework\client\include\scene\../GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\scene\../GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SceneManager.cpp
+d:\11기\api\ar11api\gameframework\client\include\scene\../GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\scene\../GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SceneScript.cpp
+d:\11기\api\ar11api\gameframework\client\include\scene\../GameFramework.h(122): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\11기\api\ar11api\gameframework\client\include\scene\../GameFramework.h(123): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  251 of 2213 functions (11.3%) were compiled, the rest were copied from previous compilation.
+    160 functions were new in current compilation
+    128 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Client.vcxproj -> D:\11기\API\AR11API\GameFramework\Client\Include\../Bin\Client.exe
+  Client.vcxproj -> ../Bin\Client.pdb (Full PDB)
