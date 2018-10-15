@@ -31,7 +31,7 @@ private:
 	vector<UINT>	m_vecLineFrameCount;
 	UINT			m_iCurrentAnimation;
 	bool			m_bFrameEnd;
-
+	
 public:
 	bool GetAnimationFrameEnd()	const
 	{

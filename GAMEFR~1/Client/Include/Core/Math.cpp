@@ -37,6 +37,9 @@ float CMath::GetAngle(const POSITION & tSrc, const POSITION & tDest)
 
 	// 목적지의 y값이 출발할 y값보다 더 작다면 위에 있으므로
 	// 360도 기준으로 바꿔줘야 한다.
+	// API상에서 쓰는 각도는 0 ~ 180 이므로
+	// 이를 넘어가는 상황이 생기면 360에서 각도를 빼서
+	// 0~180 각도상으로 다시 구한다.
 	if (tDest.y < tSrc.y)
 		iAngle = 360.f - iAngle;
 

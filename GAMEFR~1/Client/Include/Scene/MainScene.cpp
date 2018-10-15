@@ -55,7 +55,6 @@ bool CMainScene::Init()
 	pFireEffectProto->SetTexture("FireEffect", L"player_bomb.bmp", true);
 
 	pFireEffectProto->SetAnimation("FireEffect.anm");
-
 	pFireEffectProto->SetAnimationFrameSize();
 
 	// 프로토타입을 이용하여 실제 사용객체를 만들어준다.

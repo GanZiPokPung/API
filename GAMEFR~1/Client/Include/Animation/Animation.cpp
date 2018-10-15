@@ -83,14 +83,15 @@ void CAnimation::Update(float fTime)
 	if (m_bFrameEnd)
 		return;
 
-	// deltaTime만큼 time값 누적 ???    
+	// deltaTime만큼 time값 누적  
 	m_tInfo.fTime += fTime;
 
 	// vector의 인덱스 접근을 통해 Object의 현재 Anim의 최대 Frame수를 가지고 옴
 	// 라인 형식일때
 	UINT	iFrameMax = m_vecLineFrameCount[m_iCurrentAnimation];
 
-	// animation의 texture 파일이 하나씩 있을때 ???
+	// animation의 texture가 한 파일에 모두 있을때
+	// Atlas
 	if (m_tInfo.eType == AT_ALL)
 	{
 		iFrameMax = 0;
@@ -100,10 +101,10 @@ void CAnimation::Update(float fTime)
 		}
 	}
 
-	// ???
+	// 한 프레임당 시간값 
 	float	fChangeTime = m_tInfo.fLimitTime / iFrameMax;
 
-	// 프레임에 맞게 frame을 변경하기 위함 ???
+	// 프레임 계산 
 	while (m_tInfo.fTime >= fChangeTime)
 	{
 		++m_tInfo.iFrameX;
@@ -196,7 +197,8 @@ bool CAnimation::Load(const char * pFileName, const string& strPathKey)
 		fread(&m_tInfo.iFrameMaxX, 4, 1, pFile);
 		fread(&m_tInfo.iFrameMaxY, 4, 1, pFile);
 
-		// fLimitTime 저장 ???
+		// fLimitTime 저장
+		// 전체 Anim Time
 		fread(&m_tInfo.fLimitTime, 4, 1, pFile);
 
 		// animation별 frame cnt가 몇개 있는지 불러와서
