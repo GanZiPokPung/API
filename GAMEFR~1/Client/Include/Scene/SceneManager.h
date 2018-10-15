@@ -5,6 +5,7 @@
 class CSceneManager
 {
 private:
+	//ÇöÀç ¾À
 	class CScene*	m_pCurScene;
 
 public:

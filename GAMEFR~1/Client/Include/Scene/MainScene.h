@@ -3,7 +3,9 @@
 class CMainScene :
 	public CSceneScript
 {
+	//CScene에서 CScene을 데이터 멤버로 가지고 있다.
 private:
+	// CScene friend
 	friend class CScene;
 
 private:

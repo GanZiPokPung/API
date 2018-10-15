@@ -12,7 +12,9 @@ private:
 	friend class CSceneManager;
 
 private:
+	// Layer
 	vector<class CLayer*>	m_vecLayer;
+	// SceneScript
 	class CSceneScript*		m_pSceneScript;
 
 public:
@@ -30,10 +32,12 @@ public:
 	{
 		SAFE_DELETE(m_pSceneScript);
 
+		// T자식 형으로 업캐스팅
 		m_pSceneScript = new T;
 
 		m_pSceneScript->SetScene(this);
 
+		// T자식 객체의 Init를 불러옴
 		if (!m_pSceneScript->Init())
 		{
 			SAFE_DELETE(m_pSceneScript);

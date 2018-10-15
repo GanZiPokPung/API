@@ -170,12 +170,15 @@ bool CMainScene::Init()
 
 void CMainScene::Input(float fTime)
 {
+	// Scene에서 처리함
 }
 
 void CMainScene::Update(float fTime)
 {
+	// Scene에서 처리함
 }
 
 void CMainScene::Render(HDC hDC, float fTime)
 {
+	// Scene에서 처리함
 }

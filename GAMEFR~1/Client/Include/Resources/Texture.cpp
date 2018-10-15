@@ -23,8 +23,10 @@ bool CTexture::LoadTexture(HINSTANCE hInst, HDC hDC, TCHAR * pFileName, bool bCo
 {
 	m_dwColorKey = dwColorKey;
 	m_bColorKey = bColorKey;
+	//Texture Path를 가지고 옴
 	m_strPath = GET_SINGLE(CPathManager)->FindPathFromWString(strPathKey);
 	m_strFileName = pFileName;
+	//Texture Path와 파일 이름과 축약 연산함
 	m_strFullPath = m_strPath + m_strFileName;
 
 	// 이미지를 불러온다.
@@ -38,6 +40,7 @@ bool CTexture::LoadTexture(HINSTANCE hInst, HDC hDC, TCHAR * pFileName, bool bCo
 	// 있던 도구를 리턴해준다.
 	m_hOldBmp = (HBITMAP)SelectObject(m_hMemDC, m_hBmp);
 
+	// Load한 이미지를 m_hBmp에서 m_tInfo로 가지고온다.
 	GetObject(m_hBmp, sizeof(m_tInfo), &m_tInfo);
 
 	return true;

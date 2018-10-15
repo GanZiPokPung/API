@@ -1,10 +1,70 @@
-﻿  Core.cpp
+﻿  Animation.cpp
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\ksb\desktop\github\api\gamefr~1\client\include\core.cpp(233): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\animation\animation.cpp(186): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Base.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Collider.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\collider\collider.cpp(219): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\collider\collider.cpp(220): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ColliderPixel.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ColliderPoint.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ColliderRect.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\collider\colliderrect.cpp(96): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\collider\colliderrect.cpp(97): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\collider\colliderrect.cpp(98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\collider\colliderrect.cpp(99): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\collider\colliderrect.cpp(100): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ColliderSphere.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\collider\collidersphere.cpp(111): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\collider\collidersphere.cpp(115): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\collider\collidersphere.cpp(116): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\collider\collidersphere.cpp(118): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CollisionManager.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Core.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\core.cpp(263): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
   Camera.cpp
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
@@ -17,26 +77,123 @@ c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): wa
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.h(84): warning C4311: '형식 캐스트': 'const char *'에서 'DWORD'(으)로 포인터가 잘립니다.
-  c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.cpp(28): note: 컴파일 중인 함수 템플릿 인스턴스화 'void CInput::CreateKey<char[7],char>(const T (&),const char &)'에 대한 참조를 확인하십시오.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.h(91): warning C4311: '형식 캐스트': 'const char *'에서 'DWORD'(으)로 포인터가 잘립니다.
+  c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.cpp(30): note: 컴파일 중인 함수 템플릿 인스턴스화 'void CInput::CreateKey<char[7],char>(const T (&),const char &)'에 대한 참조를 확인하십시오.
           with
           [
               T=char [7]
           ]
-c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.h(84): warning C4302: '형식 캐스트': 'const char *'에서 'DWORD'(으)로 잘립니다.
-c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.h(57): warning C4311: '형식 캐스트': 'const char *'에서 'DWORD'(으)로 포인터가 잘립니다.
-  c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.h(93): note: 컴파일 중인 함수 템플릿 인스턴스화 'void CInput::CreateKey<char[10]>(const T (&))'에 대한 참조를 확인하십시오.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.h(91): warning C4302: '형식 캐스트': 'const char *'에서 'DWORD'(으)로 잘립니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.h(62): warning C4311: '형식 캐스트': 'const char *'에서 'DWORD'(으)로 포인터가 잘립니다.
+  c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.h(104): note: 컴파일 중인 함수 템플릿 인스턴스화 'void CInput::CreateKey<char[10]>(const T (&))'에 대한 참조를 확인하십시오.
           with
           [
               T=char [10]
           ]
-  c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.cpp(31): note: 컴파일 중인 함수 템플릿 인스턴스화 'void CInput::CreateKey<char,char[10]>(const T &,const char (&)[10])'에 대한 참조를 확인하십시오.
+  c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.cpp(33): note: 컴파일 중인 함수 템플릿 인스턴스화 'void CInput::CreateKey<char,char[10]>(const T &,const char (&)[10])'에 대한 참조를 확인하십시오.
           with
           [
               T=char
           ]
-c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.h(57): warning C4302: '형식 캐스트': 'const char *'에서 'DWORD'(으)로 잘립니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.h(62): warning C4302: '형식 캐스트': 'const char *'에서 'DWORD'(으)로 잘립니다.
+  Math.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\math.cpp(27): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\math.cpp(29): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\math.cpp(36): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\math.cpp(41): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\math.cpp(43): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PathManager.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Timer.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TimerManager.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BackGround.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\object\background.cpp(38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bullet.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   Character.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Dynamic.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Effect.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Monster.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\object\monster.cpp(39): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Mouse.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Obj.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\object\obj.cpp(76): warning C4244: '=': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\object\obj.cpp(77): warning C4244: '=': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\object\obj.cpp(85): warning C4244: '=': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\object\obj.cpp(86): warning C4244: '=': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\object\obj.cpp(94): warning C4244: '=': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\object\obj.cpp(95): warning C4244: '=': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\object\obj.cpp(278): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\object\obj.cpp(279): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\object\obj.cpp(289): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\object\obj.cpp(290): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ObjectManager.cpp
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
@@ -50,8 +207,8 @@ c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): wa
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\object\player.cpp(43): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\object\player.cpp(181): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.h(57): warning C4311: '형식 캐스트': 'const char *'에서 'DWORD'(으)로 포인터가 잘립니다.
-  c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.h(93): note: 컴파일 중인 함수 템플릿 인스턴스화 'void CInput::CreateKey<char[5]>(const T (&))'에 대한 참조를 확인하십시오.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.h(62): warning C4311: '형식 캐스트': 'const char *'에서 'DWORD'(으)로 포인터가 잘립니다.
+  c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.h(104): note: 컴파일 중인 함수 템플릿 인스턴스화 'void CInput::CreateKey<char[5]>(const T (&))'에 대한 참조를 확인하십시오.
           with
           [
               T=char [5]
@@ -61,7 +218,7 @@ c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.h(57): warnin
           [
               T=int
           ]
-c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.h(57): warning C4302: '형식 캐스트': 'const char *'에서 'DWORD'(으)로 잘립니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\core\input.h(62): warning C4302: '형식 캐스트': 'const char *'에서 'DWORD'(으)로 잘립니다.
   UIButton.cpp
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
@@ -78,6 +235,50 @@ c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): wa
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   UIRadioButton.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ResourcesManager.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Texture.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Layer.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MainScene.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\scene\mainscene.cpp(96): warning C4244: '인수': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\scene\mainscene.cpp(101): warning C4309: '인수': 상수 값이 잘립니다.
+  Scene.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SceneManager.cpp
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(136): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(436): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SceneScript.cpp
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(123): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(124): warning C4244: '=': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 c:\users\ksb\desktop\github\api\gamefr~1\client\include\gameframework.h(135): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
